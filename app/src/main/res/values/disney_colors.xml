@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/darkBlueGrey</color>
+    <color name="colorPrimaryDark">@color/darkBlueGrey</color>
+    <color name="colorAccent">@color/darkBlueGrey</color>
+
+    <color name="activeBlue">#1994d7</color>
+    <color name="selectedBlue">#0470ab</color>
+    <color name="inactiveBlue">#bbe0f3</color>
+    <color name="backgroundBlue">#ebf6fc</color>
+    <color name="nativeBlue">#253b56</color>
+    <color name="chromeGrey">#ecf1f4</color>
+    <color name="inactiveGrey">#d0d7de</color>
+    <color name="defaultGrey">#a1afc0</color>
+    <color name="activeGrey">#8294aa</color>
+    <color name="selectedGrey">#65778a</color>
+    <color name="ticketsBlue">#0b90b6</color>
+    <color name="ticketsPink">#ee5b6c</color>
+    <color name="ticketsGreen">#48a022</color>
+    <color name="ticketsOrange">#e87800</color>
+    <color name="ticketsPurple">#9042b0</color>
+    <color name="ticketsMagenta">#cb3ea5</color>
+    <color name="ticketsBlueGreen">#169ea7</color>
+    <color name="ticketsPurpleBlue">#6e69e0</color>
+    <!--    <color name="black">#000000</color>-->
+    <!--    <color name="white">#ffffff</color>-->
+    <color name="inactiveGreen">#d6e5ba</color>
+    <color name="selectedGreen">#58831b</color>
+    <color name="activeGreen">#61941b</color>
+    <color name="alertOrange">#ff4605</color>
+    <color name="alertYellow">#ddad28</color>
+    <color name="brightLightBlue">#32c5ff</color>
+    <color name="darkBlueGrey">#172a41</color>
+</resources>

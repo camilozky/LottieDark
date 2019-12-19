@@ -24,7 +24,7 @@ import androidx.fragment.app.Fragment
 
 
 class WelcomeFragment : Fragment() {
-
+    var flag = 0
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
         return inflater.inflate(R.layout.fragment_welcome, container, false)
     }
